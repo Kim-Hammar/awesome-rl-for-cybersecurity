@@ -42,6 +42,28 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Environments
 
+
+### `Continuous CyberBattleSim`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <a href="https://github.com/terranovafr/C-CyberBattleSim"><img src='imgs/c-cyberbattlesim.png' width=370 /></a>
+      </td>
+      <td width='50%'>
+        <a href=https://github.com/terranovafr/C-CyberBattleSim>C-CyberBattleSim</a>
+        <ul>
+          <li>
+			  An enhanced version of Microsoft CyberBattleSim that integrates graph neural networks and language models to create generalizable, scalable continuous spaces for reinforcement learning, features an extended scenario generation pipeline utilizing Shodan and the NVD, and provides a unified framework for RL training and evaluation.<br><br> 
+			Paper: <a href="https://ieeexplore.ieee.org/document/11352493">(2025) Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces</a></br>
+			Documentation: <a href="https://c-cyberbattlesim.readthedocs.io/en/latest/home.html">Read The Docs</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `CyGym`
 <table>
   <tbody>
@@ -823,27 +845,6 @@ tool</a>
   </tbody>
 </table>
 
-### `Continuous CyberBattleSim`
-<table>
-  <tbody>
-    <tr>
-      <td width='50%' align='center'>
-        <a href="https://github.com/terranovafr/C-CyberBattleSim"><img src='imgs/c-cyberbattlesim.png' width=370 /></a>
-      </td>
-      <td width='50%'>
-        <a href=https://github.com/terranovafr/C-CyberBattleSim>C-CyberBattleSim</a>
-        <ul>
-          <li>
-			  An enhanced version of Microsoft CyberBattleSim incorporating an embedding model to support continuous spaces for the RL task through graph neural networks and language models, an extended scenario generation pipeline leveraging Shodan and the NVD, and a unified framework for RL training and evaluation.<br><br> 
-			Paper: <a href="https://hal.science/hal-05182437v1">(2025) Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces</a></br>
-			Documentation <a href="https://c-cyberbattlesim.readthedocs.io/en/latest/home.html">Read The Docs</a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
@@ -876,7 +877,7 @@ tool</a>
 * [(2025) Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination](https://arxiv.org/abs/2508.05188)
 * [(2025) Adaptive Network Security Policies via Belief Aggregation and Rollout](https://arxiv.org/abs/2507.15163)
 * [(2025) Evaluating AI Agents for Cyber Defense: A Comparison of Deep Reinforcement Learning and LLM Approaches](https://doi.org/10.1007/978-3-032-10489-2_36)
-* [(2025) Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces](https://hal.science/hal-05182437v1)
+* [(2025) Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces](https://ieeexplore.ieee.org/document/11352493)
 * [(2025) Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence](https://arxiv.org/pdf/2507.14658)
 * [(2025) Comparing Traditional Hacking Tools and AI-Driven Alternatives](https://ieeexplore.ieee.org/abstract/document/11012027/)
 * [(2025) Less is more? Rewards in RL for Cyber Defence](https://arxiv.org/abs/2503.03245)
