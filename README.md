@@ -867,11 +867,14 @@ tool</a>
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Position papers
+* [(2026) Autonomous pentesting using artificial intelligence: from the cybersecurity point-of-view](https://www.sciencedirect.com/science/article/pii/S2542660526000624)
+* [(2025) Comparing Traditional Hacking Tools and AI-Driven Alternatives](https://ieeexplore.ieee.org/abstract/document/11012027)
 * [(2025) The Path to Autonomous Cyberdefense](https://ieeexplore.ieee.org/document/10612251)
 * [(2023) Autonomous Cyber Defence: A roadmap from lab to ops](https://cetas.turing.ac.uk/sites/default/files/2023-06/autonomous_cyber_defence_final_report.pdf)
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2025) Penetration Testing with AI: Case Studies on LLM and RL-Based Attack Agents](https://link.springer.com/chapter/10.1007/978-3-032-02725-2_5)
 * [(2025) Exploring the Efficacy of Multi-Agent Reinforcement Learning for Autonomous Cyber Defence: A CAGE Challenge 4 Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/35158)
 * [(2025) Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization](https://arxiv.org/pdf/2508.14385)
 * [(2025) Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination](https://arxiv.org/abs/2508.05188)
