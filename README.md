@@ -88,6 +88,39 @@ For other related curated lists, see :
   </tbody>
 </table>
 
+### `MininetGym`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/mininet-gym.png' width=300 alt='MininetGym' />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/dipi-unimore/mininet-gym'>MininetGym</a>
+        <ul>
+          <li>
+            MininetGym is a customizable and modular SDN-based simulation framework designed for evaluating Reinforcement Learning (RL) and Multi-Agent Reinforcement Learning (MARL) strategies in cybersecurity. Based on Mininet, it offers high configurability for network traffic classification and attack detection tasks (e.g., DoS/DDoS mitigation).
+          </li>
+          <li>
+            Paper: <a href="https://doi.org/10.65109/VVUY3381">(2026) MininetGym: A Live Demonstration of RL-Based Cybersecurity Training</a> (AAMAS 2026)<br/>
+			          </li>
+		  <li>	
+			  Paper: <a href="https://doi.org/10.5220/0014300900004052">(2026) Experiences in Exploiting Reinforcement Learning for Network Traffic Classification and Attack Detection</a> (ICAART 2026)<br/>
+			            </li>
+		  <li>	
+            Paper: <a href="https://www.sciencedirect.com/science/article/pii/S235271102500278X">(2025) MininetGym: A modular SDN-based simulation environment for reinforcement learning in cybersecurity</a> (SoftwareX) <br/>
+          </li>
+		  <li>			  
+			Demo: <a href="https://finix77.github.io/mininetgym/screensaver.html">screensaver</a> and <a href="https://finix77.github.io/mininetgym/video.html">video</a>
+          <li>			  
+			Documentation: <a href="https://finix77.github.io/mininetgym/manual.html">Read The Docs</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `CyGym`
 <table>
   <tbody>
